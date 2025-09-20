@@ -10,7 +10,7 @@ Gabriel Cavalcanti Alves | [@gabrielalves](https://github.com/gabrielaves) on Gi
 
 Victor França Alves | [@victorfrancacg](https://github.com/victorfrancacg) on Github 
 
-Vitor Hugo Dias Botelho de Oliveira | [@vh333](https>//github.com/vitorh333) on Github
+Vitor Hugo Dias Botelho de Oliveira | [@vitorh333](https://github.com/vitorh333) on Github
 
 ## Instruções para teste
 
