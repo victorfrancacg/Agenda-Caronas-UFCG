@@ -5,7 +5,7 @@ Esta é uma implementação de um sistema de agendamento de caronas para a Unive
 ## Colaboradores deste projeto
 Brunno Weslley Ribeiro, @brunnoweslley on Github.com  
 Gabriel Cavalcanti Alves, @gabrielalves on Github.com  
-Victor França Alves, @victorfrancacg on Github.com  
+Victor França Alves, [@victorfrancacg](github.com/victorfrancacg) on Github.com  
 Vitor Hugo Dias Botelho de Oliveira,@vh333 on Github.com
 
 ## Instruções para teste
