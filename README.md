@@ -1,1 +1,1 @@
-# AgendaCaronas-UFCG
+# AgendaCaronas - UFCG
