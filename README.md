@@ -1,6 +1,8 @@
 # AgendaCaronas - UFCG
 
-Esta é uma implementação de um sistema de agendamento de caronas para a Universidade Federal de Campina Grande. O projeto foi feito na linguagem Alloy e faz parte das propostas de aprendizado da disciplina de Lógica para Computação, ministrada por Tiago Lima Massoni e Salatiel Dantas.
+Esta é uma implementação de um sistema de agendamento de caronas para a Universidade Federal de Campina Grande. 
+
+O projeto foi feito na linguagem Alloy e faz parte das propostas de aprendizado da disciplina de Lógica para Computação, ministrada pelos professores Tiago Lima Massoni e Salatiel Dantas.
 
 ## Colaboradores deste projeto
 
