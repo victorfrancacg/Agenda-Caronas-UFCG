@@ -2,8 +2,7 @@
 
 Esta é uma implementação de um sistema de agendamento de caronas para a Universidade Federal de Campina Grande. 
 
-O projeto foi feito na linguagem Alloy e faz parte das propostas de aprendizado da disciplina de Lógica para Computação, ministrada pelos professores Tiago Lima Massoni e Salatiel Dantas. Cabe agradecer, também, à monitora Camila Rezende, pela orientação durante a realização desse projeto.
-
+O projeto foi feito na linguagem Alloy e faz parte das propostas de aprendizado da disciplina de Lógica para Computação, ministrada pelos professores Tiago Lima Massoni e Salatiel Dantas. 
 
 
 
@@ -22,7 +21,7 @@ O projeto foi feito na linguagem Alloy e faz parte das propostas de aprendizado 
 
 Brunno Weslley Ribeiro | [@brunnowxl](https://github.com/brunnowxl) on Github
 
-Gabriel Cavalcanti Alves | [@gabrielalves](https://github.com/gabrielaves) on Github
+Gabriel Cavalcanti Alves | [@b13ldev](https://github.com/b13ldev) on Github
 
 Victor França Alves | [@victorfrancacg](https://github.com/victorfrancacg) on Github 
 
