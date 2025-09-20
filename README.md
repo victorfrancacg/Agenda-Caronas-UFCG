@@ -4,13 +4,13 @@ Esta é uma implementação de um sistema de agendamento de caronas para a Unive
 
 ## Colaboradores deste projeto
 
-Brunno Weslley Ribeiro | [@brunnowxl](https://github.com/brunnowxl) on Github.com
+Brunno Weslley Ribeiro | [@brunnowxl](https://github.com/brunnowxl) on Github
 
-Gabriel Cavalcanti Alves | [@gabrielalves](https://github.com/gabrielaves) on Github.com
+Gabriel Cavalcanti Alves | [@gabrielalves](https://github.com/gabrielaves) on Github
 
-Victor França Alves | [@victorfrancacg](https://github.com/victorfrancacg) on Github.com  
+Victor França Alves | [@victorfrancacg](https://github.com/victorfrancacg) on Github 
 
-Vitor Hugo Dias Botelho de Oliveira | [@vh333](https>//github.com/vitorh333) on Github.com
+Vitor Hugo Dias Botelho de Oliveira | [@vh333](https>//github.com/vitorh333) on Github
 
 ## Instruções para teste
 
